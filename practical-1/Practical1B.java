@@ -27,4 +27,5 @@ public class Practical1B {
         Greet aditya = new Greet();
         aditya.Hello(name);
     }
+    
 }
